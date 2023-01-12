@@ -16,9 +16,11 @@
   
   Working Dir: 작업하고 있는 실제 디렉토리
   
-  Staging Area: 커밋으로 남기고 싶은 파일이 있는 곳
+  Staging Area: 커밋으로 남기고 싶은, 특정 버전으로 관리하고 싶은 파일이 있는 곳
   
   Repository: 커밋들이 저장되는 곳
+
+  Staging Area의 존재 이유: 원하는 것들만 커밋하여 버전으로 남기기 위해
   
 
 - git init : 로컬레포지토리 시작 (root 폴더에서는 하면 안됨)
