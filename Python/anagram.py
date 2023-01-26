@@ -49,4 +49,3 @@ def anagram(words):
 #
 # user_input = input()
 # print(group_anagrams(user_input))
-

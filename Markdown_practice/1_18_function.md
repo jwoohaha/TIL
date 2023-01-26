@@ -1,6 +1,5 @@
 # function
 
-복습: No
 작성일시: 2023년 1월 18일 오전 9:42
 
 # 1/13 TIL
@@ -11,9 +10,7 @@
     
     코드의 가독성이 올라감 
     
-    ![Untitled](function%20a27ff6925fe4470d92aaff6f08da3e72/Untitled.png)
-    
-    ![Untitled](function%20a27ff6925fe4470d92aaff6f08da3e72/Untitled%201.png)
+ 
     
 
 - Abstraction(추상화)
@@ -21,10 +18,7 @@
     복잡한 내부 구현을 몰라도 사용 가능
     
 
-- 
-    
-    ![Untitled](function%20a27ff6925fe4470d92aaff6f08da3e72/Untitled%202.png)
-    
+
 
 ---
 
@@ -48,7 +42,7 @@
 
 Local → Enclosed → Global → Built-in 순으로 참조
 
-![Untitled](function%20a27ff6925fe4470d92aaff6f08da3e72/Untitled%203.png)
+
 
 - 함수는 local scope를 생성하며 그 외의 공간인 global scope로 구분
     - global: 코드 어디에서든 참조 가능
